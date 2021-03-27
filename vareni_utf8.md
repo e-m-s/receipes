@@ -3,7 +3,7 @@
 - Vločky ovesné (2 os.): 500 ml mléka zahřát, před varem přidat 5 lžic ovesných vloček (a trochu soli dle chuti). Povařit cca 1 minutu. Lze přidat ovoce nebo hrozinky. 
 - Vločky ovesné: 5 lzic ovesnych vlocek, 2 lzice suseneho mleka, 1 lzice ml. Cukru, 1 lz. Hrozinek, zalit vrici vodou, povarit, pridat ovoce
 
-# Pecivo
+# Pečivo
 - Housky: 500 g hl. mouky do mísy, 1/2 droždí rozdrobit doprostřed, 1 lžk cukru, trocha ohřátého (ne horkého) mléka, přimíchat trochu mouky - vznikne kvásek; Až vzejde kvásek - kyne -  přidám 1 lž jogurtu, 3 lž změklého sádla, 1 lž soli, 200 ml mléka, vypracuju pružné těsto; hodinu kynout (zdvojnásobí objem); na pomoučené pracovní ploše prohnětu, odtrhuji kousky, válím válečky a upletu housky jako cop; (cca 12 housek); na plech vyložený pečicím papírem, 20 minut kynout, potřu bílkem ušlehaným s trochou mléka, posypu hrubou solí; peču 180 °C dozlatova (asi 30 min.); do trouby postavím misku s vodou. [Zdroj: http://ona.idnes.cz/dita-p-pece-chleba-0zd-/recepty.aspx?c=A131112_211057_recepty_haa]
 - Mazanec: Kvásek z 200 ml mléka, trochy cukru, 1 droždí a vrch. lž mouky, 7-10 min. kynout; smíchat 750 g hl. mouky, 100g cukru krupice, kůru z limety; přidat kvásek, 3 žloutky, promíchat; přilít 150 g rozpuštěného másla, vypracuj těsto; přidej hrozinky namočené v rumu/vodě a 100 g oloupaných mandlí a pistácií; 2 h. kynout; prohněteme, zhotovíme 2 mazance, 20 min. kynout, potřít vajíčkem a posypeme mandlemi (50 g); péci 5 min. na 220 °C, pak 30 min. na 150 °C
 
@@ -28,39 +28,46 @@
 - Kapr - filety: Odkrojit hlavu, ploutve, ocas. Okrojit tenký okraj na spodní části břicha. Maso odříznout od páteře podél žeber. Péci na kůži.
 
 ## Méně nebo žádné maso
-- Zeleninový salát: 3 rajčata, červená paprika, okurek; nakrájet, osolit, uvařit 150 dg těstovin, 100 g zakyslé smetany, 5 dg nivy či balkánského sýra nastrouhat, vše smíchat
-- Salát s kuřecím masem: půl čínského zelí, osolit, ocitrónovat, trochu oleje, promíchat; kuřecí játra/nudličky - nudličky naložené v koření/játra solit a opepřit až po osmahnutí - osmahnout na špeku s cibulkou, krátce zalít vodou/vínem, nechat odpařit, lze přidat nasekaný česnek nebo čerstvý tymián (restovat pak jen krátce, jinak česnek a tymián zhořkne); lze přidat samostatně osmažené a kořeněné kousky papriky a rajčat; zalít dresingem;
-- Dresing na salát: lžička hořčice, bílý jogurt, med, nasekaná cibulka (čerstvá), sůl, pepř, nechat odstát, aby se chutě spojily.
-- Salát s těstovinami a kuřecím masem: čínské zelí nebo salát malý: nakrájet, zalít roztokem cukru v octu, + osmahnout špek, kousky kuřecího masa, zakysaná smetana nebo jogurt, trocha uvařených těstovin, vše zamíchat. ;)
-špagety
 - Rizoto pečené: 1 lž másla rozpustit, přidat cibuli, 2 str. česneku, 3-4 min. péci; přidat 350 g kulatozrnné rýže, promíchat, vlít sklenici vína; vlévat postupně 1,5 l kuřecího vývaru, další vždy až se předchozí vypaří; s poslední dávkou 2 vařená kuřecí prsa na kousky + 2 hrsti mraženého hrášku a 50 g parmezánu
 - Čočka: cibulova jiska 2+2 cm, do ni voda s predem namocenou cockou 200 g, povarit, dochutit octem a cukrem
 - brokolice: do vařící vody na cca 20 min., k tomu salám, zakyslá smetana, těstoviny, niva
 - patizon
-- Květák: nakrájet na růžičky podobné velikosti, zalít studenou vodou s octem nebo solí (1:20 k vodě) a odstavit na 5 minut - získá bílou barvu a vyplaví se hmyz; opláchnout vodou, vložit do vařící, osolené vody (1/2 lž/l) s cukrem (1 lž/l), vařit 4 min. Nepřelévat vodou, nebo jen rychle. Lehce opéct na másle, dochutit.
-- Květák v trojobalu: květák 5 min. povařit v osolené vodě; posolíme, obalujeme v hl. mouce, rozšlehaném vejci, strouhance; smažíme; podáváme s bramborami a tatarkou.
-- Květák fritovaný v těstíčku: květák 5 min. povařit v osolené vodě; těstíčko z mouky, vajec a trošky bramborového škrobu; na pánvi opečeme na oleji a másle
-- Gratinovaný květák: květák rozebereme a povaříme cca 10 min v osolené vodě do poloměkka; květák do zapékací misky, zalít bešamelovou omáčkou a strouhaným parmezánem, pečeme na 180 °C 25 min. dozlatova.
 - Pizza: ze dvou sacku (50 Kc), salam (20 Kc), tv. Syr (10 Kc), 2 vejce (4 Kc)
 	- 2 plechy: 1/2 kg hl. mouky, 1/2 ks drozdi, lzice oleje, lzicka? Soli, 2,5 dcl stud. Vody, smichat, 40 min. Odstat na teplem miste, na dve casti, rozvalet, potrit kecupem... Navrch: žampiony, kukuřice nakládaná, vejce šlehané s mlékem, špek, brokolice,...
 - Jatra kureci na kecupu: opec cibuli na mesicky, pridej cesnek a ocistena jatra nakrajena na kousky, opec 15 min., osol, pridej tymian a grilovaci koreni, palivou papriku, na zaver sladky a ostry kecup, podavej s ryzi.
 - Ragu (vse v kastrolu ;)): veprove kostky osolime, opeprime, promichame, zprudka opeceme na oleji; ve vypeku orestujeme slaninu, cibuli, cesnek (kousky), mrkev, celer, petrzel na kosticky cca 10-15 min; mezitim varime fazole 20-25 min. domekka; do zakladu rajcata, rozmaryn, bobkove listy, podlijeme vyvarem dle potreby, vratime opecene maso (aby vyvarem bylo lehce zalite), pridame fazole a petrzelku; servirujeme s bramborami ci pecivem.
 - Cuketa: smazit kostky 20 min. na oleji, osolit, vejce osmazit vedle
 - Karbanatky z brambor a kvetaku: uvar a rozmackej brambory; kvetak 10 min. Ve vrouci vode, vmichat do brambor; pridame syr, osolime, opeprime, zapracujeme zloutek; vmichame opatrne mekky snih z dvou bilku; vytvorime karbanatky, smazime na oleji, posypeme opecenou slaninou, lze poprasit paprikou
+- Fazole (100 g/osobu jako hlavní jídlo): fazole noc předem namočit; 90 minut vařit ve vodě s trochou oleje (aby nepěnily); jíška, přidat fazole, sůl, ocet, cukr, tymián, přidat vařené vejce.
+- Kukuřičné placičky: smícháme: plechovku naložené kukuřice, 130 g hladké mouky, 1/2 čajové lžičky prášku do pečiva, 2 vejce, 20 g rozpuštěného másla, 80 g strouhaného sýra, 1/2 hrnku mléka; osolíme, opepříme, promícháme do hladké konzistence; smažíme placičky na oleji; dip: selský jogurt, mleté chilli papričky, sůl.
 - Celerove rizky: oloupat, platky cca 0,5-1 cm povarit, pak nasolit a nakorenit, obalit v trojobalu, do strouhanky lze pridat strouhany syr; osmazit.
 - Řepa červená s mozarellou: řepu omýt a osušit (neloupat), osolit zakápnout olejem, přidat tymián a rozmarýn, zabalit do alobalu, péci 90 min na 200 °C; propíchejte řepu, oloupejte, nakrájejte na tenké plátky a prokládejte mozarellou, zakápněte olejem, přidejte bazalku.
 - Cuketové karbanátky: nastrouhat cuketu, zamíchat s vajíčkem, přidat hladkou mouku a koření, placičky péci v troubě.
 - Zapékaná pohanka: 250 g pohanky na hodinu namočit a 5 min. uvařit, rozškvaříme a přidáme 8 dg klobásy nebo anglické slaniny, přidat stroužek česneku, špetku majoránky, pepře, soli; 15 min zapéci; při servírování přidat kousek másla nebo sýra.
-- Čočkový salát se smetanou: 2 porce čočky namoč na 2 hodiny; poté čočku uvař do měkka, před dovařením lze osolit; červená cibule na kostičky, žlutá paprika na proužky, rajčata na půlměsíčky; vychladnutou čočku promíchej se zeleninou a zakysanou smetanou; dochutíme vinným octem, pepřem a olivovým olejem.
-- Čočka černá se zeleninou: 200 ml černé čočky uvař (cca 20 min.); na pánvi na másle osmaž větší kousky mrkve a menší kostky celeru, lze přidat bujón; přidej na pánev zcezenou čočku, krátce povař, osol, opepři; podávej s volskými oky.
-- Fazole (100 g/osobu jako hlavní jídlo): fazole noc předem namočit; 90 minut vařit ve vodě s trochou oleje (aby nepěnily); jíška, přidat fazole, sůl, ocet, cukr, tymián, přidat vařené vejce.
-- Kukuřičné placičky: smícháme: plechovku naložené kukuřice, 130 g hladké mouky, 1/2 čajové lžičky prášku do pečiva, 2 vejce, 20 g rozpuštěného másla, 80 g strouhaného sýra, 1/2 hrnku mléka; osolíme, opepříme, promícháme do hladké konzistence; smažíme placičky na oleji; dip: selský jogurt, mleté chilli papričky, sůl.
-- Špenát: nasekaný špenát osmažíme na sádle, zaprášíme hl. moukou, zaléváme mlékem s vodou.
-- Špenát krémový: Na pánvi na másle osmažíme cibulku a 4 stroužky česneku; přidáme propraný špenát, necháme zavadnout; přidáme 250 ml smetany, krátce prohřejeme; dochutíme solí a pepřem, přidáme vypečené proužky anglické slaniny.
+- Flíčky: uvařit těstoviny s několika kousky uzeného masa, zcedit; nakrájet uzené maso na kostičky a osmažit na oleji; do zapékací mísy těstoviny, poklást plátky másla, promíchat s uzeným masem; zapéci na 180 °C cca 30 minut; ke konci pečení zalít rozmíchaným vejcem s mlékem (na 250 g těstovin 3 vejce a 50 ml mléka), poslední část pečení bez pokličky.
+## Saláty
+- Zeleninový salát: 3 rajčata, červená paprika, okurek; nakrájet, osolit, uvařit 150 dg těstovin, 100 g zakyslé smetany, 5 dg nivy či balkánského sýra nastrouhat, vše smíchat
+- Salát s kuřecím masem: půl čínského zelí, osolit, ocitrónovat, trochu oleje, promíchat; kuřecí játra/nudličky - nudličky naložené v koření/játra solit a opepřit až po osmahnutí - osmahnout na špeku s cibulkou, krátce zalít vodou/vínem, nechat odpařit, lze přidat nasekaný česnek nebo čerstvý tymián (restovat pak jen krátce, jinak česnek a tymián zhořkne); lze přidat samostatně osmažené a kořeněné kousky papriky a rajčat; zalít dresingem;
+- Salát s těstovinami a kuřecím masem: čínské zelí nebo salát malý: nakrájet, zalít roztokem cukru v octu, + osmahnout špek, kousky kuřecího masa, zakysaná smetana nebo jogurt, trocha uvařených těstovin, vše zamíchat. ;)
+špagety
 - Avokádový salát s vejci: půl avokáda oloupat, vyndat pecku, nakrájet na kostičky; přidat rajče na kostičky, sůl, pepř, kmín, 2 lžíce citronové šťávy, nastrouhat nebo nakrájet na kostky tvrdý sýr, nakrájet na kostičky uvařené vejce; podávat s dalamánkem.
 - Celerový salát s ananasem: půl bulvy celeru nastrouhat na nudličky, přidat zakysanou smetanu (200 ml), citronovou šťávu a 250 g nakrájeného ananasu. Promíchat, podávat s pečivem.
-- Flíčky: uvařit těstoviny s několika kousky uzeného masa, zcedit; nakrájet uzené maso na kostičky a osmažit na oleji; do zapékací mísy těstoviny, poklást plátky másla, promíchat s uzeným masem; zapéci na 180 °C cca 30 minut; ke konci pečení zalít rozmíchaným vejcem s mlékem (na 250 g těstovin 3 vejce a 50 ml mléka), poslední část pečení bez pokličky.
-- Zelný salát proti chřipce: 500 g kysaného zelí, nadrobno nakrájet 1 cibuli, nastrouhat 2 jablka a 2 mrkve, přidej nastrouhaný křen, zalij trochou smetany.
+## K salátu
+- Tvarohový dip: 250 g tvarohu rozmíchat se 100 ml smetany, 2 stroužky utřeného česneku a šťávou 1 citronu; -> přidat 1/2 svazku pažitky a osmaženou cibulku -> 1-2 lž hořcice a 3 stonky estragonu
+- Dresing na salát: lžička hořčice, bílý jogurt, med, nasekaná cibulka (čerstvá), sůl, pepř, nechat odstát, aby se chutě spojily.
+## Květák
+- Květák: nakrájet na růžičky podobné velikosti, zalít studenou vodou s octem nebo solí (1:20 k vodě) a odstavit na 5 minut - získá bílou barvu a vyplaví se hmyz; opláchnout vodou, vložit do vařící, osolené vody (1/2 lž/l) s cukrem (1 lž/l), vařit 4 min. Nepřelévat vodou, nebo jen rychle. Lehce opéct na másle, dochutit.
+- Květák zapékaný: uvaříme do měkka; připravíme jíšku, zalijeme mlékem, rozmícháme, povaříme, přidáme koření a&nbsp;muškátový oříšek, přidáme strouhanou nivu; květák v&nbsp;máslem vymazané formě zalejeme jíškou; pečeme na 180 °C cca 40 minut.
+- Květák v trojobalu: květák 5 min. povařit v osolené vodě; posolíme, obalujeme v hl. mouce, rozšlehaném vejci, strouhance; smažíme; podáváme s bramborami a tatarkou.
+- Květák fritovaný v těstíčku: květák 5 min. povařit v osolené vodě; těstíčko z mouky, vajec a trošky bramborového škrobu; na pánvi opečeme na oleji a másle
+- Gratinovaný květák: květák rozebereme a povaříme cca 10 min v osolené vodě do poloměkka; květák do zapékací misky, zalít bešamelovou omáčkou a strouhaným parmezánem, pečeme na 180 °C 25 min. dozlatova.
+## Čočka, fazole
+- Čočkový salát se smetanou: 2 porce čočky namoč na 2 hodiny; poté čočku uvař do měkka, před dovařením lze osolit; červená cibule na kostičky, žlutá paprika na proužky, rajčata na půlměsíčky; vychladnutou čočku promíchej se zeleninou a zakysanou smetanou; dochutíme vinným octem, pepřem a olivovým olejem.
+- Čočka černá se zeleninou: 200 ml černé čočky uvař (cca 20 min.); na pánvi na másle osmaž větší kousky mrkve a menší kostky celeru, lze přidat bujón; přidej na pánev zcezenou čočku, krátce povař, osol, opepři; podávej s volskými oky.
+## Špenát
+- Špenát: nasekaný špenát osmažíme na sádle, zaprášíme hl. moukou, zaléváme mlékem s vodou.
+- Špenát krémový: Na pánvi na másle osmažíme cibulku a 4 stroužky česneku; přidáme propraný špenát, necháme zavadnout; přidáme 250 ml smetany, krátce prohřejeme; dochutíme solí a pepřem, přidáme vypečené proužky anglické slaniny.
+
 ## Sladké
 - palačinky (2 porce -- 1 moje: 4+6+8=18 Kc): 0,25 kg hladke mouky, špetka soli, lž cukru, 2 vaj, 0,5 l mléka postupně vlít, míchat,
 - banánové palačinky: 130 g mouky (1:1 hladká s polohrubou) smíchej s 1/4 lžičky soli a 250 ml mléka; na pánvi na lžíci másla opékej 3 minuty z každé strany banán, rozkrojený na polovinu podélně; přes banán přelij čtvrtinu těstíčka a opékej 2-3 minuty; další 1 minutu opékej z druhé strany; vzniknou tak 4 palačinky ze 2 banánů; podávej pocukrované s půlměsíčky citronu.
@@ -77,10 +84,7 @@
 - Lívance: 1 vejce - oddělíme bílek a vyšleháme sníh. Žloutek s 1 lžící cukru rozmícháme v 1/2 hrnku mléka, vmícháme po troškách 1 hrnek hladké mouky s 1/2 lžičky prášku do pečiva. Těsto musí být hustší než na palačinky. Vmícháme sníh. Smažíme na sucho dozlatova, aby měly hladký povrch.
 
 
-# K salátu
-- Tvarohový dip: 250 g tvarohu rozmíchat se 100 ml smetany, 2 stroužky utřeného česneku a šťávou 1 citronu; -> přidat 1/2 svazku pažitky a osmaženou cibulku -> 1-2 lž hořcice a 3 stonky estragonu
-
-# Omáčky a spol.
+## Omáčky a spol.
 - Mrkvová omáčka: troška jíšky, do ní nastrouhanou mrkev, trocha vody, dusíme až mrkev přiměřeně změkne. ;) Příloha: těstoviny (opražit na pánvi s mrkví), knedlík a maso,...
 - Rajská: srdíčko uvařit v tlakovém hrnci s vodou cca půl hoďky, se zeleninou (v kuse mrkev, celer, petržel, půl cibule I se slupkou), solí,
 	- jíška tmavší: hera a máslo (od každého 1 cm), půl cibule, hladká mouka
@@ -91,7 +95,7 @@
 - Bešamelová omáčka: 3 minuty zasmažíme světlou jíšku (50 g másla, 50 g hl. mouky), přidáme 250 ml smetany a 250 ml mléka, rozmícháme, sůl, muškátový oříšek, 15 min. povařit
 - Zelí
 
-# Na těstoviny
+## Na těstoviny
 - Sýrová omáčka s kuřetem a špenátem (na těstoviny): kuřecí maso na nudličky, kůže lze do polévky, na cibulce osmažit + opepřit a osolit, přidat špenát, dusit. Jíška, do ní mléko, tavený sýr, eidam, tím zalít kuře, nakonec zakyslá smetana. Příloha: těstoviny
 - Ragú alla Bolognese (4 porce): 200+200g mletého hovězího a vepřového v tlakovém hrnci osmažit na oleji, opepřit,
 	- zeleninu na kostky(celer, mrkev, cibule, česnek) orestujte se 100 g slaniny a bobk. listem, promíchejte s masem a vařte při vys. teplotě, dokud se kapalina neodpaří
@@ -107,6 +111,7 @@
 - Sladký kuskus: 200g kuskusu + 85 g sultánek přelít vývarem, přiklopené nechat 5 min. stát; vmíchejte 85 g zelených oliv, 400 g cizrny, 2 lžíce hladkolisté petrželky, osolte
 - Smetanove brambory: oloupat a nakrajet na platky co nejtenci; smetanu ke slehani promichat se soli (hodne), paprikou a rozmarynem; zapekaci misku vymazat maslem, v ni peci hodinu, pak poklast tenkymi platky masla a jeste 20 min. peci
 - Pohanka (75 g/os.): pohanku na hodinu namočit a 5 min. uvařit
+- Zelný salát proti chřipce: 500 g kysaného zelí, nadrobno nakrájet 1 cibuli, nastrouhat 2 jablka a 2 mrkve, přidej nastrouhaný křen, zalij trochou smetany.
 
 # Na ceste
 - konzerva
