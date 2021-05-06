@@ -29,7 +29,7 @@
 
 ## Méně nebo žádné maso
 - Rizoto pečené: 1 lž másla rozpustit, přidat cibuli, 2 str. česneku, 3-4 min. péci; přidat 350 g kulatozrnné rýže, promíchat, vlít sklenici vína; vlévat postupně 1,5 l kuřecího vývaru, další vždy až se předchozí vypaří; s poslední dávkou 2 vařená kuřecí prsa na kousky + 2 hrsti mraženého hrášku a 50 g parmezánu
-- Čočka: čočku namoč cca 24 hodin předem ve vodě v&nbsp;poměru čočka:voda ~ 1:3; cibulová jíška z&bnsp;1&nbsp;cm másla, do ní studená voda s&nbsp;předem namočenou čočkou 150 g/os., povařit cca 20 min., míchat; dochutit octem a&nbsp;cukrem.
+- Čočka: 120 g čočky na osobu namoč na cca 24 hodin předem ve vodě v&nbsp;poměru čočka:voda ~ 1:5 (nebo vodu dolévej); cibulová jíška z&bnsp;3-5&nbsp;mm plátku másla, do ní studená vodu; předem namočenou čočkou slej, přidej do jíšky, zalij vodou; povař cca 20 min., dolévej vodou, občas zamíchej; dochuť octem (cca lžička) a&nbsp;cukrem (cca lžička); podávej s&nbsp;chlebem a&nbsp;vařeným vejcem či volským okem. 
 - brokolice: do vařící vody na cca 20 min., k tomu salám, zakyslá smetana, těstoviny, niva
 - patizon
 - Pizza: ze dvou sacku (50 Kc), salam (20 Kc), tv. Syr (10 Kc), 2 vejce (4 Kc)
