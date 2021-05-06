@@ -29,7 +29,6 @@
 
 ## Méně nebo žádné maso
 - Rizoto pečené: 1 lž másla rozpustit, přidat cibuli, 2 str. česneku, 3-4 min. péci; přidat 350 g kulatozrnné rýže, promíchat, vlít sklenici vína; vlévat postupně 1,5 l kuřecího vývaru, další vždy až se předchozí vypaří; s poslední dávkou 2 vařená kuřecí prsa na kousky + 2 hrsti mraženého hrášku a 50 g parmezánu
-- Čočka: 120 g čočky na osobu namoč na cca 24 hodin předem ve vodě v&nbsp;poměru čočka:voda ~ 1:5 (nebo vodu dolévej); cibulová jíška z&nbsp;3-5&nbsp;mm plátku másla, do ní postupně přilej hrnek studené vody; předem namočenou čočkou slej, přidej do jíšky, zalij vodou; povař cca 20 min., dolévej vodou, občas zamíchej; dochuť octem (cca lžička) a&nbsp;cukrem (cca lžička); podávej s&nbsp;chlebem a&nbsp;vařeným vejcem či volským okem. 
 - brokolice: do vařící vody na cca 20 min., k tomu salám, zakyslá smetana, těstoviny, niva
 - patizon
 - Pizza: ze dvou sacku (50 Kc), salam (20 Kc), tv. Syr (10 Kc), 2 vejce (4 Kc)
@@ -62,6 +61,7 @@
 - Květák fritovaný v těstíčku: květák 5 min. povařit v osolené vodě; těstíčko z mouky, vajec a trošky bramborového škrobu; na pánvi opečeme na oleji a másle
 - Gratinovaný květák: květák rozebereme a povaříme cca 10 min v osolené vodě do poloměkka; květák do zapékací misky, zalít bešamelovou omáčkou a strouhaným parmezánem, pečeme na 180 °C 25 min. dozlatova.
 ## Čočka, fazole
+- Čočka: 120 g čočky na osobu namoč na cca 24 hodin předem ve vodě v&nbsp;poměru čočka:voda ~ 1:5 (nebo vodu dolévej); cibulová jíška z&nbsp;3-5&nbsp;mm plátku másla, do ní postupně přilej hrnek studené vody; předem namočenou čočkou slej, přidej do jíšky, zalij vodou; povař cca 20 min., dolévej vodou, občas zamíchej; dochuť octem (cca lžička) a&nbsp;cukrem (cca lžička); podávej s&nbsp;chlebem a&nbsp;vařeným vejcem či volským okem. 
 - Čočkový salát se smetanou: 2 porce čočky namoč na 2 hodiny; poté čočku uvař do měkka, před dovařením lze osolit; červená cibule na kostičky, žlutá paprika na proužky, rajčata na půlměsíčky; vychladnutou čočku promíchej se zeleninou a zakysanou smetanou; dochutíme vinným octem, pepřem a olivovým olejem.
 - Čočka černá se zeleninou: 200 ml černé čočky uvař (cca 20 min.); na pánvi na másle osmaž větší kousky mrkve a menší kostky celeru, lze přidat bujón; přidej na pánev zcezenou čočku, krátce povař, osol, opepři; podávej s volskými oky.
 ## Špenát
