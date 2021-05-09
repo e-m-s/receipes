@@ -67,6 +67,7 @@
 ## Špenát
 - Špenát: nasekaný špenát osmažíme na sádle, zaprášíme hl. moukou, zaléváme mlékem s vodou.
 - Špenát krémový: Na pánvi na másle osmažíme cibulku a 4 stroužky česneku; přidáme propraný špenát, necháme zavadnout; přidáme 250 ml smetany, krátce prohřejeme; dochutíme solí a pepřem, přidáme vypečené proužky anglické slaniny.
+- Špenátová náplň do palačinek: Na oleji orestujeme cibuli, přidáme prolisovaný česnek a&nbsp;nudličky šunky; když se šunka lehce opečená, přidáme spařený špenát; jakmile se špenát prohřeje, dochutíme solí a pepřem; plníme palačinky.
 
 ## Sladké
 - palačinky (2 porce -- 1 moje: 4+6+8=18 Kc): 0,25 kg hladke mouky, špetka soli, lž cukru, 2 vaj, 0,5 l mléka postupně vlít, míchat,
