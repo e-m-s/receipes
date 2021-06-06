@@ -1,4 +1,4 @@
-﻿# Teplá snídaně
+# Teplá snídaně
 - Lívance (viz dále)
 - Vločky ovesné (2 os.): 500 ml mléka zahřát, před varem přidat 5 lžic ovesných vloček (a trochu soli dle chuti). Povařit cca 1 minutu. Lze přidat ovoce nebo hrozinky. 
 - Vločky ovesné: 5 lzic ovesnych vlocek, 2 lzice suseneho mleka, 1 lzice ml. Cukru, 1 lz. Hrozinek, zalit vrici vodou, povarit, pridat ovoce
@@ -82,7 +82,7 @@
 - Sejkory s medem: smícháme 300 g vařených jemně nastrouhaných brambor, 2 lžíce polohrubé mouky, 2 žloutky, 1 dl mléka, moučkový cukr, sůl; umícháme hladké těsto, přidáme sníh ze dvou bílků; pečeme na pánvičce do zlatova; nakonec posypeme perníkem, vanilkovým cukrem a skořicí a pokapeme medem.
 - Buchticky se sodo
 - Těstoviny s tvarohem a kompotem: 3 porce ~ 250 g?
-- Lívance: 1 vejce - oddělíme bílek a vyšleháme sníh. Žloutek s 1 lžící cukru rozmícháme v 1/2 hrnku mléka, vmícháme po troškách 1 hrnek hladké mouky s 1/2 lžičky prášku do pečiva. Těsto musí být hustší než na palačinky. Vmícháme sníh. Smažíme na sucho dozlatova, aby měly hladký povrch.
+- Lívance #vločky #sladké #snídaně: oddělíme bílek z {1 větší vejce} a vyšleháme sníh; Žloutek s {1/2 lžičky vanilkového cukru} rozmícháme v {1/2 hrnku mléka (120 ml)}; vmícháme po troškách {1 hrnek hladké mouky (120 g)} s {1 lžička prášku do pečiva} a {1 lžíce ovesných vloček} (těsto musí být hustší než na palačinky); vmícháme sníh; smažíme na sucho dozlatova, aby měly lívance hladký povrch.
 
 
 ## Omáčky a spol.
