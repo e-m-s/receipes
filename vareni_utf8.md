@@ -82,7 +82,7 @@
 - Sejkory s medem: smícháme 300 g vařených jemně nastrouhaných brambor, 2 lžíce polohrubé mouky, 2 žloutky, 1 dl mléka, moučkový cukr, sůl; umícháme hladké těsto, přidáme sníh ze dvou bílků; pečeme na pánvičce do zlatova; nakonec posypeme perníkem, vanilkovým cukrem a skořicí a pokapeme medem.
 - Buchticky se sodo
 - Těstoviny s tvarohem a kompotem: 3 porce ~ 250 g?
-- Lívance #vločky #sladké #snídaně: oddělíme bílek z {1 větší vejce} a vyšleháme sníh; Žloutek s {1/2 lžičky vanilkového cukru} rozmícháme v {1/2 hrnku mléka (120 ml)}; vmícháme po troškách {1 hrnek hladké mouky (120 g)} s {1 lžička prášku do pečiva} a {1 lžíce ovesných vloček} (těsto musí být hustší než na palačinky); vmícháme sníh; smažíme na sucho dozlatova, aby měly lívance hladký povrch.
+- Lívance #vločky #sladké #snídaně: oddělíme bílek z _1 větší vejce_ a vyšleháme sníh; žloutek s _1/2 lžičky vanilkového cukru_ rozmícháme v _1/2 hrnku mléka (120 ml)_; vmícháme po troškách _1 hrnek hladké mouky (120 g)_ s _1 lžička prášku do pečiva_ a _1 lžíce ovesných vloček_ (těsto musí být hustší než na palačinky); vmícháme sníh; smažíme na sucho dozlatova, aby měly lívance hladký povrch.
 
 
 ## Omáčky a spol.
