@@ -1,5 +1,5 @@
 ﻿# Teplá snídaně
-- Lívance (viz dále)
+- Lívance (viz [Sladké](#Sladké))
 - Vločky ovesné (2 os.): 500 ml mléka zahřát, před varem přidat 5 lžic ovesných vloček (a trochu soli dle chuti). Povařit cca 1 minutu. Lze přidat ovoce nebo hrozinky. 
 - Vločky ovesné: 5 lzic ovesnych vlocek, 2 lzice suseneho mleka, 1 lzice ml. Cukru, 1 lz. Hrozinek, zalit vrici vodou, povarit, pridat ovoce
 
