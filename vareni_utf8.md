@@ -83,6 +83,7 @@
 - Buchticky se sodo
 - Těstoviny s tvarohem a kompotem: 3 porce ~ 250 g?
 - Lívance #vločky #sladké #snídaně: oddělíme bílek z _1 větší vejce_ a vyšleháme sníh; žloutek s _1/2 lžičky vanilkového cukru_ rozmícháme v _1/2 hrnku mléka (120 ml)_; vmícháme po troškách _1 hrnek hladké mouky (120 g)_ s _1 lžička prášku do pečiva_ a _1 lžíce ovesných vloček_ (těsto musí být hustší než na palačinky); vmícháme sníh; smažíme na sucho dozlatova, aby měly lívance hladký povrch.
+- Pohankové lívance #pohanka #sladké #snídaně (4&nbsp;porce): uvaříme a vychladíme _120&nbsp;g pohanky_, opražíme na _oleji_; do vychladlé pohanky přidáme _80&nbsp;ml smetany na šlehání_, _1&nbsp;balíček skořicového cukru_, _1/2&nbsp;balíčku prášku do pečiva_, _2&nbsp;vejce_, _špetku soli_, _140&nbsp;g na drobno nasekaných okroužených jablek_; _130&nbsp;g (pohankové) hladké mouky_; zamícháme, smažíme v&nbsp;lívanečníku.
 
 
 ## Omáčky a spol.
