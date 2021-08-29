@@ -227,6 +227,11 @@ Jiska: 1:1:1 maslo, hera, hl. mouka
 - Čtverce lístkového těsta s ovocem: lístové těsto nechat povolit, rozválet do tenké vrstvy vykrájet čtverce cca 12x12 cm; utřít 2 žloutky, tučný tvaroh, 1 vanilkový cukr, na každý čtverec těsta lžíci směsi; na každý čtverec půlku vypeckované meruňky
 - Nanuky do mrazáku: půl vaničky tvarohu, cca 100 ml smetany na šlehání 30% (ušlehat nebo i tekutá), citrónová šťáva, ovoce na kousky, vanilkový cukr (stačí i polovina nebo méně). Vše smíchat, nalít do formiček, dát do mrazáku. Pokud je moc husté, lze doředit mlékem.
 
+# Zpracování ovoce
+
+## Džemy
+- Broskvový džem #džem #broskve: _broskve_ vypeckujeme a&nbsp;nakrájíme na drobné kousky, na 1&nbsp;kg směsi přidáme šťávu z&nbsp;_1/2&nbsp;citronu_; cca 10&nbsp;min. povaříme; přidáme _250&nbsp;g&nbsp;mletého cukru_, vaříme dalších cca 10&nbsp;minut; přidáme _1 balíček pektogelu_ promíchaný s&nbsp;50&nbsp;g cukru; přidáme šťávu ze zbytku citronu a&nbsp;povaříme ještě asi 7&nbsp;minut; lijeme do vyvařených teplých sklenic, zavíčkujeme, překlopíme víčkem dolů a&nbsp;necháme vychladnout.
+
 # Čaje a nečaje
 - Carcade (nápoj z ibiškového květu): 15 g ibiškového květu &mdash; cca 3 vrchovaté lžíce; v 600 ml vody krátce povařit (nebo 10 minut luhovat), silně osladit (pro mě 4 až 6 lžic cukru)
 - Touareg (Maroko): vrchovatá lžička čaje gunpowder zalít horkou vodou, povařit; hrst čerstvé máty (letní) nebo pelyněk (zimní) namočit ve vodě a ponořit do čaje; osladit až 3 lžíce cukru; viz také: https://www.cajovebedynky.cz/priprava-caje/marocka-whisky-aneb-jak-pripravit-pravy-marocky-touareg/
