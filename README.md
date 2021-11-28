@@ -174,28 +174,29 @@ Jiska: 1:1:1 maslo, hera, hl. mouka
 - Vánoční polévka: Vývar z rybí hlavy bez žáber (vařit min. 90 minut) a zeleniny. Následně hlavu rozebrat, vybrat kosti. Do vody zeleninu, jíšku, hříbky, povařit. Přidat maso z hlavy, osolit.
 - Bramborový salát (4 porce): 8 brambor uvařit a nakrájet na kostky, uvařit mrkev, přidat Moravanku, půl majonézy, půl tatarky, nakonec přidat vejce.
 - Vánočka - dva kusy: 80 dg polohrubé mouky; 
-	* kvásek: 1,5 balíčku kvasnic, lžíci polohrubé mouky, lžíci cukru, do půl hrnku dolít vlažného mléka, nechat vykynout cca 20 minut; 13 dg cukru, 13 dg roztopeného tuku, utřít; přidat dva žloutky, jedno vejce, lžičku soli utřít;
-	* do utřené směsi trochu mouky, kvásek, dosypat zbytek mouky, přiměřené množství vlažného mléka (celkem použít cca 500 ml); nechat 30-45 minut v teple kynout; vpracovat citronovou kůru, hrozinky, kandované ovoce;
-	* uplést pásky - 4 spodní vrstva, tři střední, dva horní; plést: levý střídavě vrchem a spodem mezi ostatní směrem doprava, pak znovu totéž; 
-	* ?potřít bílkem s mlékem?; péct 20 minut na 200 °C, pak dalších cca 15 minut na 180-190 °C 
+	- kvásek: 1,5 balíčku kvasnic, lžíci polohrubé mouky, lžíci cukru, do půl hrnku dolít vlažného mléka, nechat vykynout cca 20 minut; 13 dg cukru, 13 dg roztopeného tuku, utřít; přidat dva žloutky, jedno vejce, lžičku soli utřít;
+	- do utřené směsi trochu mouky, kvásek, dosypat zbytek mouky, přiměřené množství vlažného mléka (celkem použít cca 500 ml); nechat 30-45 minut v teple kynout; vpracovat citronovou kůru, hrozinky, kandované ovoce;
+	- uplést pásky - 4 spodní vrstva, tři střední, dva horní; plést: levý střídavě vrchem a spodem mezi ostatní směrem doprava, pak znovu totéž; 
+	- ?potřít bílkem s mlékem?; péct 20 minut na 200 °C, pak dalších cca 15 minut na 180-190 °C 
 - Linecké (stačí půlka): 41 dg hl. mouky (spec), 25 dg tuku (hera/máslo), 16 dg cukru, 1 vejce: zpracovat, péct na plechu bez maštění při 180 stupňů C
 - Perníčky máma:
-	* 11 dg hladke mouky psenicne, 11 dg hl. Mouky zitne, 1 vejce, 12 dg hl. cukru, 2 dg masla, 2 kav. Lzicky medu, 1,5 lzice mleka, pul lzicky skorice, 3 hrebicky, citr. Kura, citr. Stava, pul hrsti mletych orechu, 1/4 lzicky jedle sody, 1 vejce na potirani
-	* zpracovat těsto, vyválet na cca 0,5 cm, vykrájené tvary na vymaštěný plech, péct v dobře vyhřáté troubě na 180 -- 200 °C cca 20 min. s vířivkou
+	- 11 dg hladke mouky psenicne, 11 dg hl. Mouky zitne, 1 vejce, 12 dg hl. cukru, 2 dg masla, 2 kav. Lzicky medu, 1,5 lzice mleka, pul lzicky skorice, 3 hrebicky, citr. Kura, citr. Stava, pul hrsti mletych orechu, 1/4 lzicky jedle sody, 1 vejce na potirani
+	- zpracovat těsto, vyválet na cca 0,5 cm, vykrájené tvary na vymaštěný plech, péct v dobře vyhřáté troubě na 180 -- 200 °C cca 20 min. s vířivkou
 - Perníčky babička (hodne - měkčí)(stačí půlka):
-	* 56 dg hladke mouky, 3 zloutky, 2 vejce,  25 dg cukru, 8 dg medu, 1 lzice mleka, dva balíčky kypřícího přášku do perníku, 
-	* zpracovat v těsto, vyválet, vykrajovat tvary
-	* potírame pírkem rozšlehaným vajíčkem, aby byl povrch lesklý
+	- 56 dg hladké mouky, 3 žloutky, 2 vejce,  25 dg cukru, 8 dg medu, 1 lžíce mléka, dva balíčky kypřícího prášku do perníku, 
+	- zpracovat v těsto, vyválet, vykrajovat tvary
+	- potírame pírkem rozšlehaným vajíčkem, aby byl povrch lesklý
 - Citronová poleva na perníčky: mletý cukr, trocha citronové šťávy a troška horké vody, smíchat ve vhodném poměru, utřít
 - Čokoládová poleva na perníčky: 5 dg másla, 1 dg (1 lžíce) kakaa smísit, utřít. 10 dg cukru svařit ve 130 ml vody, míchat až řetízkuje, pak přidat do másla. Míchat nad parní lázní.
 - Magma
-	* 1 bilek, 25 dg mleteho cukru, 6 kavovych lzicek kakaa (i 6 lžic, ne moc vrchovatých)
-	* zpracujeme na vale, rozvalime na cca 5 mm, vykrajujeme tvary
-	* peceme na vymastenem plechu ci pecicim papire v mirne troube, 100 -- 120 °C cca hodinu (+vetrak), pece-li trouba nesymetricky, otocit
+	- 1 bilek, 25 dg mleteho cukru, 6 kavovych lzicek kakaa (i 6 lžic, ne moc vrchovatých)
+	- zpracujeme na vale, rozvalime na cca 5 mm, vykrajujeme tvary
+	- peceme na vymastenem plechu ci pecicim papire v mirne troube, 100 -- 120 °C cca hodinu (+vetrak), pece-li trouba nesymetricky, otocit
 - Suchárky s ořechy (z letáku): vyšlehat hustý sníh ze 4 bílků a 100 g krystalu; přidej 100 g hladké mouky, 100 g vlašských ořechů, jemně promícháme; vlijeme do máslem vymaštěné formy na srnčí hřbet a pečeme při 180 °C 30 min. Druhý den nařežeme plátky a usušíme v sušičce na ovoce nebo v troubě na 50 °C.
 - Marokánky: ve 250 ml mléka rozmíchej 40 g cukru moučka, přidej 20 g másla a 30 g mouky, přiveď k varu; vař 3 minuty, než začne houstnout; odstav a vmíchej 100 g kandované citronové kůry, 100 g sekaných vlašských ořechů, 100 g rozinek, 100 g sekaných mandlí; ze směsi vyrob placičky, dej na pečicí papír a peč v rozehřáté troubě na 180 °C asi 15 minut (až okraje zhnědnou); ve vodní lázni rozpusť čokoládu, vychladlé placičky potři čokoládou.
 - Medvědí tlapky: 9 dg cukru, 20 dg mouky 8 dg hery, 8 dg másla, 8 dg ořechů, skořice, hřebíček, citronová kůra, 2 dg kakaa (1 lžíce), 1 vejce. Zpracujeme a vyválíme na 3 pásy. Těstem plníme formičky, které klademe na plech a dáme do středně vyhřáté trouby. Opečené vyklopíme a obalíme v cukru.
-- Bílkové pusinky (Kočí, 1 plech): 1 bílek, 14 dg cukru krupice, 1 kávová lžička octa — umýchat do zhoustnutí; Přidat hrozinky, usekané mandle nebo ořechy; Sušíme na 100 °C asi hodinu na pečícím papíře.
+- Bílkové pusinky (Kočí, 1 plech): 1 bílek, 14 dg cukru krupice, 1 kávová lžička octa — umíchat/?ušlehat? do zhoustnutí; přidat hrozinky, usekané mandle nebo ořechy; sušíme v troubě na 100 °C asi hodinu na pečícím papíře.
+- Kokosové pusinky: 1 bílek + 10 dg pískového cukru + lžička octa; do umíchaného přidáme 5 dg kokosu;  sušíme v troubě na 100 °C asi hodinu na pečícím papíře.
 
 # Buchty
 - Piskot s broskvemi: ve vodni lazni rozslehej do peny vejce s 150 g cukru, 1 vanilk. cukrem, spetkou soli; přidejte 80 g mouky a 80 g celozrnne mouky; formicky vymazte tukem, rozdrobte na dno 8 piskotu a nalijte testo do 3/4, pridejte na vrch broskev; pecte dohneda na 200 °C
