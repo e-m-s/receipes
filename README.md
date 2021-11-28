@@ -78,9 +78,9 @@
 - bramborové placky (z krabičky): bramborové těsto z krabičky, zpracovat s 350 ml vody (podle návodu), smažit placky na pánvi ;)
 - Bramborové placky (vlastní - 4 porce): 750 g brambor (8 středních brambor) uvaříme ve slupce v osolené vodě 20-25 minut, zcedíme, oloupeme, necháme zchladnout (lépe den předem); brambory nastrouháme nebo protlačíme skrz lis; přidáme vejce, cca 150 g (polo)hrubé mouky a sůl dle potřeby  a rychle zpracujeme těsto; vyválíme do šišky, nakrájíme, pečeme na rozpálené plotně; můžeme pomazat horkým sádlem nebo povidly. Lze i jako příloha ke špenátu (na cibulce, se smetanou) a tuňákovi.
 - Krupice: viz vecere
-- Sladká rýže (2 porce): hrnek (200 g) rýže spařit horkou vodou; přidat 600&nbsp;ml mléka, povařit, osolit, (volitelně osladit); ke konci až se odpaří většina vody vmíchat kousky ovoce (broskve), nakonec položit na povrch plátky másla. 
-	- Varianta tvarohová: zamíchat do směsi cca 125 g měkkého tučného či polotučného tvarohu.
-	- Varianta zapečení: přidat 2 žloutky, ze 2 bílků vyšlehat tuhý sníh s cukrem; se 20&nbsp;g hrubé mouky přimíchat k&nbsp;rýži; pomalu upéci v&nbsp;pekáči s&nbsp;vodou.
+- Mléčná rýže (2 porce): hrnek (200 g) rýže spařit horkou vodou; přidat 600&nbsp;ml mléka, volitelně osolit a&nbsp;osladit, zakrýt pokličkou a&nbsp;vařit, dokud nezhoustne; ke konci až se odpaří většina vody vmíchat kousky ovoce (broskve) a&nbsp;vmíchat 3&nbsp;plátky másla. 
+	- Varianta tvarohová: po uvaření zamíchat do směsi cca 125 g měkkého tučného či polotučného tvarohu.
+	- Varianta zapečení: zamíchat do směsi 2&nbsp;žloutky, ze 2&nbsp;bílků vyšlehat tuhý sníh s&nbsp;cukrem; se 20&nbsp;g hrubé mouky zamíchat do rýže; pomalu upéci v&nbsp;troubě v&nbsp;pekáči s&nbsp;vodou.
 - Sejkory s medem: smícháme 300 g vařených jemně nastrouhaných brambor, 2 lžíce polohrubé mouky, 2 žloutky, 1 dl mléka, moučkový cukr, sůl; umícháme hladké těsto, přidáme sníh ze dvou bílků; pečeme na pánvičce do zlatova; nakonec posypeme perníkem, vanilkovým cukrem a skořicí a pokapeme medem.
 - Buchticky se sodo
 - Těstoviny s tvarohem a kompotem: 3 porce ~ 250 g?
