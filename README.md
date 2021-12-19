@@ -183,11 +183,12 @@ Jiska: 1:1:1 maslo, hera, hl. mouka
 - Linecké (stačí půlka): 41 dg hl. mouky (spec), 25 dg tuku (hera/máslo), 16 dg cukru, 1 vejce: zpracovat, péct na plechu bez maštění při 180 stupňů C
 - Perníčky máma:
 	- 11 dg hladke mouky psenicne, 11 dg hl. Mouky zitne, 1 vejce, 12 dg hl. cukru, 2 dg masla, 2 kav. Lzicky medu, 1,5 lzice mleka, pul lzicky skorice, 3 hrebicky, citr. Kura, citr. Stava, pul hrsti mletych orechu, 1/4 lzicky jedle sody, 1 vejce na potirani
-	- zpracovat těsto, vyválet na cca 0,5 cm, vykrájené tvary na vymaštěný plech, péct v dobře vyhřáté troubě na 180 -- 200 °C cca 20 min. s vířivkou
-- Perníčky babička (hodne - měkčí)(stačí půlka):
+	- zpracovat těsto, vyválet na cca 0,5 cm, vykrájené tvary na vymaštěný plech, péct v dobře vyhřáté troubě na 180 &mdash; 200 °C cca 20 min. s vířivkou
+- Perníčky babička (měkčí)(4 plechy):
 	- 56 dg hladké mouky, 3 žloutky, 2 vejce,  25 dg cukru, 8 dg medu, 1 lžíce mléka, dva balíčky kypřícího prášku do perníku, 
-	- zpracovat v těsto, vyválet, vykrajovat tvary
+	- zpracovat v těsto, vyválet na cca ??4-6 mm?? výšky, vykrajovat tvary
 	- potírame pírkem rozšlehaným vajíčkem, aby byl povrch lesklý
+	- péci na ??180 °C?? cca ??20 min.??
 - Citronová poleva na perníčky: mletý cukr, trocha citronové šťávy a troška horké vody, smíchat ve vhodném poměru, utřít
 - Čokoládová poleva na perníčky: 5 dg másla, 1 dg (1 lžíce) kakaa smísit, utřít. 10 dg cukru svařit ve 130 ml vody, míchat až řetízkuje, pak přidat do másla. Míchat nad parní lázní.
 - Magma
