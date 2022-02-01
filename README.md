@@ -132,13 +132,13 @@
 - Tlačenka
 
 # Pomazánky
-- Česneková s nivou: tvaroh (250 g), niva (15 dg nastrouhat), česnek (jeden stroužek protlačit) nebo nakrajet listy cibule, smíchat. ;)
+- Česneková s nivou: tvaroh (250 g), niva (15 dg nastrouhat), česnek (jeden stroužek protlačit) nebo nakrájet listy cibule, smíchat. ;)
 - Česneková se sýrem: strouhaný tvrdý sýr, jogurt (majonéza), zakysaná smetana, česnek nastrouhat, pepř, sůl
-- Hermelínová: 1 hermelin nastrouhat, nakrajet cibuli, 2 vejce natvrdo, 100g mekkeho salamu, vmichat 1 tatarku/?jogurt?, pazitku ev. sul
+- Hermelínová: 1 hermelín nastrouhat, nakrájet cibuli, 2 vejce natvrdo, 100g měkkého salámu, vmíchat 1 tatarku/?jogurt?, pažitku ev. sůl
 - Mrkvová pomazánka
-	- 250 g mrkve nastrouhat, do misy s 1 lz oleje, 1lz citr. Stavy, 1 lz medu, trochu soli a mleteho pepre.
-	- vmichame 150 g luciny a 2 snitky kopru, promichat a dochutit soli a citr. stavou
-- Řepa a celer: 150 g červené řepy a 150 g celeru oloupeme a nastrouháme najemno. Cibuli nakrájíme nadrobno. Přidáme 100 g Lučiny/pomazánkového, osolíme, opepříme a dokonale promícháme.
+	- 250 g mrkve nastrouhat, do mísy s 1 lž. oleje, 1 lž. citr. šťávy, 1 lž. medu, trochu soli a mletého pepře.
+	- vmícháme 150 g lučiny a 2 snítky kopru, promíchat a dochutit solí a citronovou šťávou.
+- Řepa a celer: 150 g červené řepy a 150 g celeru oloupeme a nastrouháme najemno. Cibuli nakrájíme nadrobno. Přidáme 100 g lučiny/pomazánkového, osolíme, opepříme a dokonale promícháme.
 - Sardinková: sardinky, máslo (perla), hořčice, cibule
 - Tavený sýr: krabička sýra tav., lž. perly, lžk hořčice, cibule, sůl; rozmíchat; 15 dg salámu, vajíčko, 2 okurky
 - Tvarohová: tvaroh, perla, hořčice, šunka, cibule, vejce vařené
