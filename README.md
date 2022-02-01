@@ -150,6 +150,7 @@
 - Křenová: na oleji zesklovatět cibulku, na 30 sekund přidat lžíci nastrouhaného křenu, pak nechat zchladnout; přidat 250 g tvarohu, pažitku, dochutit solí a olivovým olejem.
 - Avokádová: avokádo rozpůlit, vyjmout pecku, rozetřít; přidat citronovou šťávu, česnek, cibulku, sůl, pepř; lze přidat kopr či zakysanou smetanu.
 - Petrželová: čerstvou petržel nastrouhat, přidat majonézu, na jemno nakrájenou cibuli, citronovou šťávu, dle chuti pepř a sůl.
+- Tuňáková pomazánka: 1/2 velké plechovky tuňáka smíchat s&nbsp;1/2 velké cibule pokrájené na jemno, 2 lžícemi majonézy; okořenit, nechat chvíli v&nbsp;lednici odstát.
 
 # Polévky
 Jiska: 1:1:1 maslo, hera, hl. mouka
