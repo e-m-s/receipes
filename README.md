@@ -35,7 +35,8 @@
 	- 2 plechy: 1/2 kg hl. mouky, 1/2 ks drozdi, lzice oleje, lzicka? Soli, 2,5 dcl stud. Vody, smichat, 40 min. Odstat na teplem miste, na dve casti, rozvalet, potrit kecupem... Navrch: žampiony, kukuřice nakládaná, vejce šlehané s mlékem, špek, brokolice,...
 - Jatra kureci na kecupu: opec cibuli na mesicky, pridej cesnek a ocistena jatra nakrajena na kousky, opec 15 min., osol, pridej tymian a grilovaci koreni, palivou papriku, na zaver sladky a ostry kecup, podavej s ryzi.
 - Ragu (vse v kastrolu ;)): veprove kostky osolime, opeprime, promichame, zprudka opeceme na oleji; ve vypeku orestujeme slaninu, cibuli, cesnek (kousky), mrkev, celer, petrzel na kosticky cca 10-15 min; mezitim varime fazole 20-25 min. domekka; do zakladu rajcata, rozmaryn, bobkove listy, podlijeme vyvarem dle potreby, vratime opecene maso (aby vyvarem bylo lehce zalite), pridame fazole a petrzelku; servirujeme s bramborami ci pecivem.
-- Cuketa: smazit kostky 20 min. na oleji, osolit, vejce osmazit vedle
+- Cuketa: smažit kostky 20 min. na oleji, osolit, vejce osmažit vedle.
+- Pečený koláč (WH30): strouhat mrkev 3 ks, bramboru 1 ks, cibuli 2 ks, osmahnout; smíchat se 4 vejci, solí, pepřem; směs na 2 vrstvy na pánev, mezi ně plátky sýra; smažit z&nbsp;obou stran na sádle.
 - Karbanatky z brambor a kvetaku: uvar a rozmackej brambory; kvetak 10 min. Ve vrouci vode, vmichat do brambor; pridame syr, osolime, opeprime, zapracujeme zloutek; vmichame opatrne mekky snih z dvou bilku; vytvorime karbanatky, smazime na oleji, posypeme opecenou slaninou, lze poprasit paprikou
 - Fazole (100 g/osobu jako hlavní jídlo): fazole noc předem namočit; 90 minut vařit ve vodě s trochou oleje (aby nepěnily); jíška, přidat fazole, sůl, ocet, cukr, tymián, přidat vařené vejce.
 - Kukuřičné placičky: smícháme: plechovku naložené kukuřice, 130 g hladké mouky, 1/2 čajové lžičky prášku do pečiva, 2 vejce, 20 g rozpuštěného másla, 80 g strouhaného sýra, 1/2 hrnku mléka; osolíme, opepříme, promícháme do hladké konzistence; smažíme placičky na oleji; dip: selský jogurt, mleté chilli papričky, sůl.
@@ -77,7 +78,7 @@
 - Ovocné knedlíky: (1 porce 15+8+3+3+3=32 Kc) 1 tvaroh, 8dg tuku, 1 zloutek, 30 dg polohrube mouky, mleko 100 -- 200 ml, zpracovat na vále, vytvořit knedlíky, vařit, dokud nevyplavou
 - bramborové placky (z krabičky): bramborové těsto z krabičky, zpracovat s 350 ml vody (podle návodu), smažit placky na pánvi ;)
 - Bramborové placky (vlastní - 4 porce): 750 g brambor (8 středních brambor) uvaříme ve slupce v osolené vodě 20-25 minut, zcedíme, oloupeme, necháme zchladnout (lépe den předem); brambory nastrouháme nebo protlačíme skrz lis; přidáme vejce, cca 150 g (polo)hrubé mouky a sůl dle potřeby  a rychle zpracujeme těsto; vyválíme do šišky, nakrájíme, pečeme na rozpálené plotně; můžeme pomazat horkým sádlem nebo povidly. Lze i jako příloha ke špenátu (na cibulce, se smetanou) a tuňákovi.
-- Krupice: viz vecere
+- Krupičná kaše (2 porce, alergen mléko): do 750 ml mléka dáme 6-8 lžic krupice a kousek másla; přivedeme k&nbsp;varu, vaříme 2 minuty; ochutíme například: skořice, trocha směsi pro přípravu kakaa, máslo, oříšky (lískové, kešu, mandle), hrozinky.
 - Mléčná rýže (2 porce): hrnek (200 g) rýže spařit horkou vodou; přidat 600&nbsp;ml mléka, volitelně osolit a&nbsp;osladit, zakrýt pokličkou; průběžně míchat a&nbsp;vařit na mírném plameni, dokud nezhoustne; ke konci až se odpaří většina vody vmíchat kousky ovoce (broskve) a&nbsp;vmíchat 3&nbsp;plátky másla. 
 	- Varianta tvarohová: po uvaření zamíchat do směsi cca 125 g měkkého tučného či polotučného tvarohu.
 	- Varianta zapečení: zamíchat do směsi 2&nbsp;žloutky, ze 2&nbsp;bílků vyšlehat tuhý sníh s&nbsp;cukrem; se 20&nbsp;g hrubé mouky zamíchat do rýže; pomalu upéci v&nbsp;troubě v&nbsp;pekáči s&nbsp;vodou.
@@ -121,7 +122,7 @@
 - konzerva
 
 # Teplá večeře
-- Krupice: 500 ml mleka, 4 lz krupice, 2lz cukru, uvest do varu, varit 2 min.
+- krupičná kaše viz [sladká jídla](#Sladké)
 - klobása
 - puding
 
