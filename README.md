@@ -248,3 +248,6 @@ Jiska: 1:1:1 maslo, hera, hl. mouka
 - Carcade (nápoj z ibiškového květu): 15 g ibiškového květu &mdash; cca 3 vrchovaté lžíce; v 600 ml vody krátce povařit (nebo 10 minut luhovat), silně osladit (pro mě 4 až 6 lžic cukru)
 - Touareg (Maroko): vrchovatá lžička čaje gunpowder zalít horkou vodou, povařit; hrst čerstvé máty (letní) nebo pelyněk (zimní) namočit ve vodě a ponořit do čaje; osladit až 3 lžíce cukru; viz také: https://www.cajovebedynky.cz/priprava-caje/marocka-whisky-aneb-jak-pripravit-pravy-marocky-touareg/
 - Malotira (krétský horský čaj): zalít horkou vodou (100 °C), luhovat 3-5 minut, 1 čajová lžička na 1,5-2 dl, v konvici 1 lžičku navíc. Lze dochutit medem. 
+
+# Dobroty
+- Směs oříšků: miska kešu (120 g, 45 Kč), půl misky lískové (60 g, 20 Kč), miska hrozinky černé (120 g, 15 Kč), 2 lžíce goji, miska hrozinek světlých (140 g ~ 15 Kč), miska mandlí loupaných (140 g, 50 Kč), 1/3 sáčku kokos chips (30 g, 10 Kč). 
