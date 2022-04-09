@@ -136,6 +136,7 @@
 - Česneková s nivou: tvaroh (250 g), niva (15 dg nastrouhat), česnek (jeden stroužek protlačit) nebo nakrájet listy cibule, smíchat. ;)
 - Česneková se sýrem: strouhaný tvrdý sýr, jogurt (majonéza), zakysaná smetana, česnek nastrouhat, pepř, sůl
 - Hermelínová: 1 hermelín nastrouhat, nakrájet cibuli, 2 vejce natvrdo, 100g měkkého salámu, vmíchat 1 tatarku/?jogurt?, pažitku ev. sůl
+- Z medvědího česneku: sáček listů medvědího česneku opláchneme pod tekoucí vodou a usekáme na drobné kousky, přidáme 100 g tvarohu, dvě lžičky majonézy, sůl, pepř. Můžeme přidat nakrájené vejce navtvrdo. Zamícháme.
 - Mrkvová pomazánka
 	- 250 g mrkve nastrouhat, do mísy s 1 lž. oleje, 1 lž. citr. šťávy, 1 lž. medu, trochu soli a mletého pepře.
 	- vmícháme 150 g lučiny a 2 snítky kopru, promíchat a dochutit solí a citronovou šťávou.
