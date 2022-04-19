@@ -251,4 +251,4 @@ Jiska: 1:1:1 maslo, hera, hl. mouka
 - Malotira (krétský horský čaj): zalít horkou vodou (100 °C), luhovat 3-5 minut, 1 čajová lžička na 1,5-2 dl, v konvici 1 lžičku navíc. Lze dochutit medem. 
 
 # Dobroty
-- Směs oříšků (cca 600 g, 165 Kč): miska kešu (120 g, 45 Kč), půl misky lískové (60 g, 20 Kč), miska hrozinky černé (120 g, 15 Kč), 2 lžíce goji, miska hrozinek světlých (140 g ~ 15 Kč), miska mandlí loupaných (140 g, 50 Kč), 1/3 sáčku kokos chips (30 g, 10 Kč). 
+- Směs oříšků (cca 500 g, 150 Kč): miska kešu (120 g, 45 Kč), půl misky lískové (60 g, 20 Kč), půl misky hrozinky černé (60 g, 7 Kč), půl misky hrozinek světlých (70 g ~ 8 Kč), 2 lžíce goji, miska mandlí loupaných (140 g, 50 Kč), 1/3 sáčku kokos chips (30 g, 10 Kč). 
