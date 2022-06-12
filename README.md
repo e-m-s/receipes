@@ -52,19 +52,25 @@
 špagety
 - Avokádový salát s vejci: půl avokáda oloupat, vyndat pecku, nakrájet na kostičky; přidat rajče na kostičky, sůl, pepř, kmín, 2 lžíce citronové šťávy, nastrouhat nebo nakrájet na kostky tvrdý sýr, nakrájet na kostičky uvařené vejce; podávat s dalamánkem.
 - Celerový salát s ananasem: půl bulvy celeru nastrouhat na nudličky, přidat zakysanou smetanu (200 ml), citronovou šťávu a 250 g nakrájeného ananasu. Promíchat, podávat s pečivem.
+
 ## K salátu
 - Tvarohový dip: 250 g tvarohu rozmíchat se 100 ml smetany, 2 stroužky utřeného česneku a šťávou 1 citronu; -> přidat 1/2 svazku pažitky a osmaženou cibulku -> 1-2 lž hořcice a 3 stonky estragonu
 - Dresing na salát: lžička hořčice, bílý jogurt, med, nasekaná cibulka (čerstvá), sůl, pepř, nechat odstát, aby se chutě spojily.
+
 ## Květák
 - Květák: nakrájet na růžičky podobné velikosti, zalít studenou vodou s octem nebo solí (1:20 k vodě) a odstavit na 5 minut - získá bílou barvu a vyplaví se hmyz; opláchnout vodou, vložit do vařící, osolené vody (1/2 lž/l) s cukrem (1 lž/l), vařit 4 min. Nepřelévat vodou, nebo jen rychle. Lehce opéct na másle, dochutit.
 - Květák zapékaný: uvaříme do měkka; připravíme jíšku, zalijeme mlékem, rozmícháme, povaříme, přidáme koření a&nbsp;muškátový oříšek, přidáme strouhanou nivu; květák v&nbsp;máslem vymazané formě zalejeme jíškou; pečeme na 180 °C cca 40 minut.
 - Květák v trojobalu: květák 5 min. povařit v osolené vodě; posolíme, obalujeme v hl. mouce, rozšlehaném vejci, strouhance; smažíme; podáváme s bramborami a tatarkou.
 - Květák fritovaný v těstíčku: květák 5 min. povařit v osolené vodě; těstíčko z mouky, vajec a trošky bramborového škrobu; na pánvi opečeme na oleji a másle
 - Gratinovaný květák: květák rozebereme a povaříme cca 10 min v osolené vodě do poloměkka; květák do zapékací misky, zalít bešamelovou omáčkou a strouhaným parmezánem, pečeme na 180 °C 25 min. dozlatova.
-## Čočka, fazole
+
+## Čočka, fazole, hrášek (čerstvý), hrách (sušený)
 - Čočka: 120 g čočky na osobu namoč na cca 24 hodin předem ve vodě v&nbsp;poměru čočka:voda ~ 1:5 (nebo vodu dolévej); cibulová jíška z&nbsp;3-5&nbsp;mm plátku másla, do ní postupně přilej hrnek studené vody; předem namočenou čočkou slej, přidej do jíšky, zalij vodou; povař cca 20 min., dolévej vodou, občas zamíchej; dochuť octem (cca lžička) a&nbsp;cukrem (cca lžička); podávej s&nbsp;chlebem a&nbsp;vařeným vejcem či volským okem. 
 - Čočkový salát se smetanou: 2 porce čočky namoč na 2 hodiny; poté čočku uvař do měkka, před dovařením lze osolit; červená cibule na kostičky, žlutá paprika na proužky, rajčata na půlměsíčky; vychladnutou čočku promíchej se zeleninou a zakysanou smetanou; dochutíme vinným octem, pepřem a olivovým olejem.
 - Čočka černá se zeleninou: 200 ml černé čočky uvař (cca 20 min.); na pánvi na másle osmaž větší kousky mrkve a menší kostky celeru, lze přidat bujón; přidej na pánev zcezenou čočku, krátce povař, osol, opepři; podávej s volskými oky.
+- ?&nbsp;Pokus: Kaše ze (sušeného) zeleného hrachu: hrách necháme cca ??&nbsp;2&nbsp;?? hodiny namočit a poté uvaříme na cibulce (podobně jako čočku).
+- Pomazánka z&nbsp;vařeného hrášku/čočky: zkaramelizujeme cibulku, přidáme uvařený hrách/čočku, lehce osmažíme, rozmixujeme. Přidáme citronovou šťávu, pepř, sůl, olivový olej, hořčici.
+
 ## Špenát
 - Špenát: nasekaný špenát osmažíme na sádle, zaprášíme hl. moukou, zaléváme mlékem s vodou.
 - Špenát krémový: Na pánvi na másle osmažíme cibulku a 4 stroužky česneku; přidáme propraný špenát, necháme zavadnout; přidáme 250 ml smetany, krátce prohřejeme; dochutíme solí a pepřem, přidáme vypečené proužky anglické slaniny.
@@ -153,6 +159,7 @@
 - Avokádová: avokádo rozpůlit, vyjmout pecku, rozetřít; přidat citronovou šťávu, česnek, cibulku, sůl, pepř; lze přidat kopr či zakysanou smetanu.
 - Petrželová: čerstvou petržel nastrouhat, přidat majonézu, na jemno nakrájenou cibuli, citronovou šťávu, dle chuti pepř a sůl.
 - Tuňáková pomazánka: 1/2 velké plechovky tuňáka smíchat s&nbsp;1/2 velké cibule pokrájené na jemno, 2 lžícemi majonézy; okořenit, nechat chvíli v&nbsp;lednici odstát.
+- Hrášková/čočková viz [hrášek/čočka](#čočka-fazole-hrášek-čerstvý-hrách-sušený).
 
 # Polévky
 Jiska: 1:1:1 maslo, hera, hl. mouka
