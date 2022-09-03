@@ -30,6 +30,7 @@
 ## Méně nebo žádné maso
 - Rizoto pečené: 1 lž másla rozpustit, přidat cibuli, 2 str. česneku, 3-4 min. péci; přidat 350 g kulatozrnné rýže, promíchat, vlít sklenici vína; vlévat postupně 1,5 l kuřecího vývaru, další vždy až se předchozí vypaří; s poslední dávkou 2 vařená kuřecí prsa na kousky + 2 hrsti mraženého hrášku a 50 g parmezánu
 - brokolice: do vařící vody na cca 20 min., k tomu salám, zakyslá smetana, těstoviny, niva
+- Cuketa pečená: Očistíme 1 větší cuketu a postrouháme na hrubo; přimícháme 1 usekanou cibuli, (případně prolisujeme stroužek česneku), nastrouháme 150 g sýra, nakrájíme slaninu nebo salám, přidáme žloutek ze 2&nbsp;vajec, 3 lžíce oleje, 1 sáček prášku do pečiva, 150 g hrubé mouky, promícháme; vmícháme sníh ze 2&nbsp;vajec; těsto nalijeme na plech s&nbsp;pečícím papírem, pečeme na 150 °C asi 30 minut do růžova, poté 180-200 °C 15 minut.
 - patizon
 - Pizza: ze dvou sacku (50 Kc), salam (20 Kc), tv. Syr (10 Kc), 2 vejce (4 Kc)
 	- 2 plechy: 1/2 kg hl. mouky, 1/2 ks drozdi, lzice oleje, lzicka? Soli, 2,5 dcl stud. Vody, smichat, 40 min. Odstat na teplem miste, na dve casti, rozvalet, potrit kecupem... Navrch: žampiony, kukuřice nakládaná, vejce šlehané s mlékem, špek, brokolice,...
