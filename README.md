@@ -18,6 +18,7 @@
 - Mazanec: Kvásek z 200 ml mléka, trochy cukru, 1 droždí a vrch. lž mouky, 7-10 min. kynout; smíchat 750 g hl. mouky, 100g cukru krupice, kůru z limety; přidat kvásek, 3 žloutky, promíchat; přilít 150 g rozpuštěného másla, vypracuj těsto; přidej hrozinky namočené v rumu/vodě a 100 g oloupaných mandlí a pistácií; 2 h. kynout; prohněteme, zhotovíme 2 mazance, 20 min. kynout, potřít vajíčkem a posypeme mandlemi (50 g); péci 5 min. na 220 °C, pak 30 min. na 150 °C
 
 # Oběd:
+
 ## Maso
 - řízky kuřecí/vepřové: lehce naklepat (násada nože), nakořenit (červená paprika, sůl, pepř), osmažit na oleji. Příloha: rýže.
 - Uzené maso: maso, rozvazat ze sitky, povarit se zeleninou na polevku: přílohy: brambory
@@ -41,10 +42,10 @@
 - Rizoto pečené: 1 lž másla rozpustit, přidat cibuli, 2 str. česneku, 3-4 min. péci; přidat 350 g kulatozrnné rýže, promíchat, vlít sklenici vína; vlévat postupně 1,5 l kuřecího vývaru, další vždy až se předchozí vypaří; s poslední dávkou 2 vařená kuřecí prsa na kousky + 2 hrsti mraženého hrášku a 50 g parmezánu
 - brokolice: do vařící vody na cca 20 min., k tomu salám, zakyslá smetana, těstoviny, niva
 - Cuketa pečená: Očistíme 1 větší cuketu a postrouháme na hrubo; přimícháme 1 usekanou cibuli, (případně prolisujeme stroužek česneku), nastrouháme 150 g sýra, nakrájíme slaninu nebo salám, přidáme žloutek ze 2&nbsp;vajec, 3 lžíce oleje, 1 sáček prášku do pečiva, 150 g hrubé mouky, promícháme; vmícháme sníh ze 2&nbsp;vajec; těsto nalijeme na plech s&nbsp;pečícím papírem, pečeme na 150 °C asi 30 minut do růžova, poté 180-200 °C 15 minut.
-- patizon
-- Pizza: ze dvou sacku (50 Kc), salam (20 Kc), tv. Syr (10 Kc), 2 vejce (4 Kc)
-	- 2 plechy: 1/2 kg hl. mouky, 1/2 ks drozdi, lzice oleje, lzicka? Soli, 2,5 dcl stud. Vody, smichat, 40 min. Odstat na teplem miste, na dve casti, rozvalet, potrit kecupem... Navrch: žampiony, kukuřice nakládaná, vejce šlehané s mlékem, špek, brokolice,...
-- Jatra kureci na kecupu: opec cibuli na mesicky, pridej cesnek a ocistena jatra nakrajena na kousky, opec 15 min., osol, pridej tymian a grilovaci koreni, palivou papriku, na zaver sladky a ostry kecup, podavej s ryzi.
+- Patizon: odkroj slupku, vydlabej semínka, rozkrájej na podkovičky cca 1 cm široké; obal v&nbsp;trojobalu jako řízky; osmaž na sádle, podávej s&nbsp;bramborami.
+- Pizza ze sáčku: ze dvou sacku (50 Kc), salam (20 Kc), tv. Syr (10 Kc), 2 vejce (4 Kc)
+- Pizza (2 plechy): 1/2 kg hl. mouky, 1/2 ks drozdi, lzice oleje, lzicka? Soli, 2,5 dcl stud. Vody, smichat, 40 min. Odstat na teplem miste, na dve casti, rozvalet, potrit kecupem... Navrch: žampiony, kukuřice nakládaná, vejce šlehané s mlékem, špek, brokolice,...
+- Játra kuřecí na kečupu: opec cibuli na mesicky, pridej cesnek a ocistena jatra nakrajena na kousky, opec 15 min., osol, pridej tymian a grilovaci koreni, palivou papriku, na zaver sladky a ostry kecup, podavej s ryzi.
 - Ragu (vse v kastrolu ;)): veprove kostky osolime, opeprime, promichame, zprudka opeceme na oleji; ve vypeku orestujeme slaninu, cibuli, cesnek (kousky), mrkev, celer, petrzel na kosticky cca 10-15 min; mezitim varime fazole 20-25 min. domekka; do zakladu rajcata, rozmaryn, bobkove listy, podlijeme vyvarem dle potreby, vratime opecene maso (aby vyvarem bylo lehce zalite), pridame fazole a petrzelku; servirujeme s bramborami ci pecivem.
 - Cuketa: smažit kostky 20 min. na oleji, osolit, vejce osmažit vedle.
 - Pečený mrkvový koláč (WH30 - když se vynechá sýr): strouhat mrkev 3 ks, bramboru 1 ks, cibuli 2 ks, osmahnout; smíchat se 4 vejci, solí, pepřem; směs na 2 vrstvy na pánev, mezi ně plátky sýra; smažit z&nbsp;obou stran na sádle.
@@ -56,6 +57,8 @@
 - Cuketové karbanátky: nastrouhat cuketu, zamíchat s vajíčkem, přidat hladkou mouku a koření, placičky péci v troubě.
 - Zapékaná pohanka: 250 g pohanky na hodinu namočit a 5 min. uvařit, rozškvaříme a přidáme 8 dg klobásy nebo anglické slaniny, přidat stroužek česneku, špetku majoránky, pepře, soli; 15 min zapéci; při servírování přidat kousek másla nebo sýra.
 - Flíčky: uvařit těstoviny s několika kousky uzeného masa, zcedit; nakrájet uzené maso na kostičky a osmažit na oleji; do zapékací mísy těstoviny, poklást plátky másla, promíchat s uzeným masem; zapéci na 180 °C cca 30 minut; ke konci pečení zalít rozmíchaným vejcem s mlékem (na 250 g těstovin 3 vejce a 50 ml mléka), poslední část pečení bez pokličky.
+- Salát z&nbsp;růžičkové kapusty: růžičkovou kapustu očistit (svrchní lístky odebrat, odkrojit stopku) a uvařit v&nbsp;páře; kapustu nasekat nadrobno; na pánvi na másle zesklovatět cibulku a slaninu, přidat kapustu, zamíchat a lehce osmažit.
+
 ## Saláty
 - Zeleninový salát: 3 rajčata, červená paprika, okurek; nakrájet, osolit, uvařit 150 dg těstovin, 100 g zakyslé smetany, 5 dg nivy či balkánského sýra nastrouhat, vše smíchat
 - Salát s kuřecím masem: půl čínského zelí, osolit, ocitrónovat, trochu oleje, promíchat; kuřecí játra/nudličky - nudličky naložené v koření/játra solit a opepřit až po osmahnutí - osmahnout na špeku s cibulkou, krátce zalít vodou/vínem, nechat odpařit, lze přidat nasekaný česnek nebo čerstvý tymián (restovat pak jen krátce, jinak česnek a tymián zhořkne); lze přidat samostatně osmažené a kořeněné kousky papriky a rajčat; zalít dresingem;
