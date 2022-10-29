@@ -1,7 +1,17 @@
-﻿# Teplá snídaně
+﻿# Teplá snídaně/večere
 - Lívance (viz [Sladké](#Sladké))
-- Vločky ovesné (2 os.): 500 ml mléka zahřát, před varem přidat 5 lžic ovesných vloček (a trochu soli dle chuti). Povařit cca 1 minutu. Lze přidat ovoce nebo hrozinky. 
-- Vločky ovesné: 5 lzic ovesnych vlocek, 2 lzice suseneho mleka, 1 lzice ml. Cukru, 1 lz. Hrozinek, zalit vrici vodou, povarit, pridat ovoce
+- Vločky ovesné (2 os.): 600 ml mléka zahřát, před varem přidat 6 lžic (~ 150 g) ovesných vloček (a trochu soli dle chuti). Povařit cca 1 minutu. 
+- Sladká ovesná kaše: uvař vločky, přidej libovolnou kombinaci: ovoce (jablka, mandarinky, banán,...), hrozinky, oříšky, kakaové nibsy, 
+- Ovesná kaše (na cesty): 5 lžic ovesných vloček, 2 lžíce sušeného mléka, 1 lžíce ml. cukru, 1 lž. hrozinek, zalít vřící vodou (cca 1/2 l), povařit, přidat ovoce
+- Krupičná kaše viz [sladká jídla](#Sladké)
+- Klobása
+- Puding
+
+# Studená snídaně/večeře
+- anglická slanina
+- obložené chleby
+- sardinky, paprika
+- Tlačenka
 
 # Pečivo
 - Housky: 500 g hl. mouky do mísy, 1/2 droždí rozdrobit doprostřed, 1 lžk cukru, trocha ohřátého (ne horkého) mléka, přimíchat trochu mouky - vznikne kvásek; Až vzejde kvásek - kyne -  přidám 1 lž jogurtu, 3 lž změklého sádla, 1 lž soli, 200 ml mléka, vypracuju pružné těsto; hodinu kynout (zdvojnásobí objem); na pomoučené pracovní ploše prohnětu, odtrhuji kousky, válím válečky a upletu housky jako cop; (cca 12 housek); na plech vyložený pečicím papírem, 20 minut kynout, potřu bílkem ušlehaným s trochou mléka, posypu hrubou solí; peču 180 °C dozlatova (asi 30 min.); do trouby postavím misku s vodou. [Zdroj: http://ona.idnes.cz/dita-p-pece-chleba-0zd-/recepty.aspx?c=A131112_211057_recepty_haa]
@@ -127,17 +137,6 @@
 
 # Na ceste
 - konzerva
-
-# Teplá večeře
-- krupičná kaše viz [sladká jídla](#Sladké)
-- klobása
-- puding
-
-# Studená večeře
-- anglická slanina
-- obložené chleby
-- sardinky, paprika
-- Tlačenka
 
 # Pomazánky
 - Česneková s nivou: tvaroh (250 g), niva (15 dg nastrouhat), česnek (jeden stroužek protlačit) nebo nakrájet listy cibule, smíchat. ;)
