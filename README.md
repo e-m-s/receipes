@@ -11,7 +11,7 @@
 - anglická slanina
 - obložené chleby
 - sardinky, paprika
-- Tlačenka
+- tlačenka
 
 # Pečivo
 - Housky: 500 g hl. mouky do mísy, 1/2 droždí rozdrobit doprostřed, 1 lžk cukru, trocha ohřátého (ne horkého) mléka, přimíchat trochu mouky - vznikne kvásek; Až vzejde kvásek - kyne -  přidám 1 lž jogurtu, 3 lž změklého sádla, 1 lž soli, 200 ml mléka, vypracuju pružné těsto; hodinu kynout (zdvojnásobí objem); na pomoučené pracovní ploše prohnětu, odtrhuji kousky, válím válečky a upletu housky jako cop; (cca 12 housek); na plech vyložený pečicím papírem, 20 minut kynout, potřu bílkem ušlehaným s trochou mléka, posypu hrubou solí; peču 180 °C dozlatova (asi 30 min.); do trouby postavím misku s vodou. [Zdroj: http://ona.idnes.cz/dita-p-pece-chleba-0zd-/recepty.aspx?c=A131112_211057_recepty_haa]
@@ -193,17 +193,16 @@ Jiska: 1:1:1 maslo, hera, hl. mouka
 	- do utřené směsi trochu mouky, kvásek, dosypat zbytek mouky, přiměřené množství vlažného mléka (celkem použít cca 500 ml); nechat 30-45 minut v teple kynout; vpracovat citronovou kůru, hrozinky, kandované ovoce;
 	- uplést pásky - 4 spodní vrstva, tři střední, dva horní; plést: levý střídavě vrchem a spodem mezi ostatní směrem doprava, pak znovu totéž; 
 	- ?potřít bílkem s mlékem?; péct 20 minut na 200 °C, pak dalších cca 15 minut na 180-190 °C 
-- Linecké (4 plechy): 
-	- Těsto: 410&nbsp;g hl. mouky (spec), 250&nbsp;g tuku (hera/máslo), 160&nbsp;g cukru, 1 vejce: zpracovat těsto, nechat přes noc v&nbsp;chladničce uležet; 
-	- Vyválet na cca 4&nbsp;mm (při zpracování by mělo být těsto vychlazené — zpracovávat po částech, zbytek v&nbsp;chladničce). 
-	- Péci na plechu bez maštění při 180&nbsp;°C cca 10 min.
+- Linecké - těsto (4 plechy): 410&nbsp;g hl. mouky (spec), 250&nbsp;g tuku (hera/máslo), 160&nbsp;g cukru, 1 vejce: zpracovat těsto, nechat přes noc v&nbsp;chladničce uležet; 
+- Linecké - alternativní těsto (2 plechy): 210&nbsp;g hl. mouky, 140&nbsp;g másla nastrouhat, 70&nbsp;g mletého cukru (moučka), několik kapek octa, 2 žloutky s trochou citronové šťávy - vše v pokojové teplotě ale max. 20&nbsp;°C, špetka soli (zvýrazní sladkou chuť); rychle zpracovat těsto (aby tuk nevsákl do mouky - pak by bylo cukroví tvrdé), nechat přes noc v&nbsp;chladničce uležet; 
+- Linecké - dokončení: vyválet na cca 4&nbsp;mm; při zpracování by mělo být těsto vychlazené — zpracovávat po částech, zbytek v&nbsp;chladničce; váleček lze dát předtím na chvíli do mrazáku; podsypávat moučkovým cukrem, ne moukou; péci na plechu bez maštění při 180&nbsp;°C cca 10 min., po upečení hned sundat z plechu a dát na rovný povrch.
 - Perníčky máma:
 	- 11 dg hladké mouky pšeničné, 11 dg hl. mouky žitné, 1 vejce, 12 dg hl. cukru, 2 dg másla, 2 kávové lžičky medu, 1,5 lžíce mléka, půl lžičky skořice, 3 hřebíčky, citronová kůra, citronová šťáva, půl hrsti mletých ořechů, 1/4 lžičky jedlé sody, 1 vejce na potírání
 	- zpracovat těsto, nechat přes noc uležet v&nbsp;chladničce
 	- vyválet na cca 0,5 cm, vykrájené tvary na vymaštěný plech, péct v dobře vyhřáté troubě na 180 &mdash; 200 °C cca 20 min. s vířivkou
 - Perníčky babička (měkčí)(4 plechy):
 	- 560&nbsp;g hladké mouky, 3 žloutky, 2 vejce,  250&nbsp;g cukru, 80&nbsp;g medu, 1 lžíce mléka, dva balíčky kypřícího prášku do perníku, můžeme přidat citronovou kůru a&nbsp;rozdrcený hřebíček (3&nbsp;ks) nebo koření do perníku.
-	- Zpracovat v těsto, nechat přes noc uležet v&nbsp;chladničce.
+	- Zpracovat v těsto, nechat přes uležet v&nbsp;chladničce - ideálně i měsíc.
 	- Vyválet na cca 2-4 mm pro tenší perníčky nebo 4-6 mm pro vyšší perníčky, vykrajovat tvary.
 	- Potírame pírkem rozšlehaným vajíčkem, aby byl povrch lesklý.
 	- Péci na 180&nbsp;°C cca 20 min.
