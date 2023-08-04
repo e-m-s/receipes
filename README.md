@@ -58,6 +58,8 @@
 - Zapékaná pohanka: 250 g pohanky na hodinu namočit a 5 min. uvařit, rozškvaříme a přidáme 8 dg klobásy nebo anglické slaniny, přidat stroužek česneku, špetku majoránky, pepře, soli; 15 min zapéci; při servírování přidat kousek másla nebo sýra.
 - Flíčky: uvařit těstoviny s několika kousky uzeného masa, zcedit; nakrájet uzené maso na kostičky a osmažit na oleji; do zapékací mísy těstoviny, poklást plátky másla, promíchat s uzeným masem; zapéci na 180 °C cca 30 minut; ke konci pečení zalít rozmíchaným vejcem s mlékem (na 250 g těstovin 3 vejce a 50 ml mléka), poslední část pečení bez pokličky.
 - Salát z&nbsp;růžičkové kapusty: růžičkovou kapustu očistit (svrchní lístky odebrat, odkrojit stopku) a uvařit v&nbsp;páře; kapustu nasekat nadrobno; na pánvi na másle zesklovatět cibulku a slaninu, přidat kapustu, zamíchat a lehce osmažit.
+- Bramborový guláš : Osmahnout na cibulce brambory nakrájené na kostky, povařit ve vodě; osolit, okořenit jako guláš, přidat vodu s hladkou moukou (hrnek); v&nbsp;závěru vaření přidat uzeninu nakrájenou na kostky.
+
 
 ## Saláty
 - Zeleninový salát: 3 rajčata, červená paprika, okurek; nakrájet, osolit, uvařit 150 dg těstovin, 100 g zakyslé smetany, 5 dg nivy či balkánského sýra nastrouhat, vše smíchat
