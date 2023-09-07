@@ -135,6 +135,7 @@
 # Přílohy
 - Rýže (100 g/os.): 1 hrnek sparit, oprazit s cibulkou na oleji, zalit vodou (1 hrnek ryze na 2 hrnky vody), osolit, nechat odparit vodu, pridat 3 hrebicky?
 - Knedlík: hrubá mouka cca 250 g, žloutek, hrnek: půl mléka, půl vody, půl lžky soli, vmíchat 3 rohlíky, vypracovat těsto; na prkénko mouku, mokrýma rukama vytvarovat, vařit v horké vodě 30 min.
+- Kuskus (1 porce): 70 g kuskusu (1/2 misky) zalejeme miskou (200 ml) vývaru (může být z&nbsp;bujónu); necháme 5&nbsp;minut odstát.
 - Sladký kuskus: 200g kuskusu + 85 g sultánek přelít vývarem, přiklopené nechat 5 min. stát; vmíchejte 85 g zelených oliv, 400 g cizrny, 2 lžíce hladkolisté petrželky, osolte
 - Smetanove brambory: oloupat a nakrajet na platky co nejtenci; smetanu ke slehani promichat se soli (hodne), paprikou a rozmarynem; zapekaci misku vymazat maslem, v ni peci hodinu, pak poklast tenkymi platky masla a jeste 20 min. peci
 - Pohanka (75 g/os.): pohanku na hodinu namočit a 5 min. uvařit
