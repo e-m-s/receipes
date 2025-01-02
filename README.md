@@ -212,9 +212,9 @@ Jiska: 1:1:1 maslo, hera, hl. mouka
 - Citronová poleva na perníčky: mletý cukr, trocha citronové šťávy a troška horké vody, smíchat ve vhodném poměru, utřít
 - Čokoládová poleva na perníčky: 5 dg másla, 1 dg (1 lžíce) kakaa smísit, utřít. 10 dg cukru svařit ve 130 ml vody, míchat až řetízkuje, pak přidat do másla. Míchat nad parní lázní.
 - Magma
-	- 1 bilek, 25 dg mleteho cukru, 6 kavovych lzicek kakaa (i 6 lžic, ne moc vrchovatých)
-	- zpracujeme na vale, rozvalime na cca 5 mm, vykrajujeme tvary
-	- peceme na vymastenem plechu ci pecicim papire v mirne troube, 100 -- 120 °C cca hodinu (+vetrak), pece-li trouba nesymetricky, otocit
+	- 1 bílek, 25 dg mleteho cukru, 6 kavovych lzicek kakaa (i 6 lžic, ne moc vrchovatých, ale musí být méně cukru???)
+	- zpracujeme na vále, rozvalíme na cca 5 mm, vykrajujeme tvary
+	- pečeme na vymaštěném plechu či pečícím papíře – začni na 150 °C cca 15 minut (musí naskočit a zkaramelizovat), pak dosušit 100 – 120 °C cca hodinu (+větrák), pece-li trouba nesymetricky, otočit
 - Suchárky s ořechy (z letáku): vyšlehat hustý sníh ze 4 bílků a 100 g krystalu; přidej 100 g hladké mouky, 100 g vlašských ořechů, jemně promícháme; vlijeme do máslem vymaštěné formy na srnčí hřbet a pečeme při 180 °C 30 min. Druhý den nařežeme plátky a usušíme v sušičce na ovoce nebo v troubě na 50 °C.
 - Marokánky: ve 250 ml mléka rozmíchej 40 g cukru moučka, přidej 20 g másla a 30 g mouky, přiveď k varu; vař 3 minuty, než začne houstnout; odstav a vmíchej 100 g kandované citronové kůry, 100 g sekaných vlašských ořechů, 100 g rozinek, 100 g sekaných mandlí; ze směsi vyrob placičky, dej na pečicí papír a peč v rozehřáté troubě na 180 °C asi 15 minut (až okraje zhnědnou); ve vodní lázni rozpusť čokoládu, vychladlé placičky potři čokoládou.
 - Medvědí tlapky: 9 dg cukru, 20 dg mouky 8 dg hery, 8 dg másla, 8 dg ořechů, skořice, hřebíček, citronová kůra, 2 dg kakaa (1 lžíce), 1 vejce. Zpracujeme a vyválíme na 3 pásy. Těstem plníme formičky, které klademe na plech a dáme do středně vyhřáté trouby. Opečené vyklopíme a obalíme v cukru.
