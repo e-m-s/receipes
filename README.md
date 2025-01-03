@@ -86,6 +86,7 @@
 - Čočka černá se zeleninou: 200 ml černé čočky uvař (cca 20 min.); na pánvi na másle osmaž větší kousky mrkve a menší kostky celeru, lze přidat bujón; přidej na pánev zcezenou čočku, krátce povař, osol, opepři; podávej s volskými oky.
 - ?&nbsp;Pokus: Kaše ze (sušeného) zeleného hrachu: hrách necháme cca ??&nbsp;2&nbsp;?? hodiny namočit a poté uvaříme na cibulce (podobně jako čočku).
 - Pomazánka z&nbsp;vařeného hrášku/čočky: zkaramelizujeme cibulku, přidáme uvařený hrách/čočku, lehce osmažíme, rozmixujeme. Přidáme citronovou šťávu, pepř, sůl, olivový olej, hořčici.
+- Salát ze zelí a fazolí: uvař fazole (namočit přes noc, vař v čisté vodě 20 min.), přidej půl sklenice kysaného zelí bez nálevu, přidej půl cibule na krájené na kostičky, tři lžíce majonézy, tři lžíce tatarky, sůl, pepř; smíchat, nechat v lednici uležet.
 
 ## Špenát
 - Špenát: nasekaný špenát osmažíme na sádle, zaprášíme hl. moukou, zaléváme mlékem s vodou.
