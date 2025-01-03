@@ -192,10 +192,13 @@ Jiska: 1:1:1 maslo, hera, hl. mouka
 - Vánoční polévka: Vývar z rybí hlavy bez žáber (vařit min. 90 minut) a zeleniny. Následně hlavu rozebrat, vybrat kosti. Do vody zeleninu, jíšku, hříbky, povařit. Přidat maso z hlavy, osolit.
 - Bramborový salát (4 porce): 8 brambor uvařit a nakrájet na kostky, uvařit mrkev, přidat Moravanku, půl majonézy, půl tatarky, nakonec přidat vejce.
 - Vánočka - dva kusy: 80 dg polohrubé mouky; 
-	- kvásek: 1,5 balíčku kvasnic, lžíci polohrubé mouky, lžíci cukru, do půl hrnku dolít vlažného mléka, nechat vykynout cca 20 minut; 13 dg cukru, 13 dg roztopeného tuku, utřít; přidat dva žloutky, jedno vejce, lžičku soli utřít;
-	- do utřené směsi trochu mouky, kvásek, dosypat zbytek mouky, přiměřené množství vlažného mléka (celkem použít cca 500 ml); nechat 30-45 minut v teple kynout; vpracovat citronovou kůru, hrozinky, kandované ovoce;
-	- uplést pásky - 4 spodní vrstva, tři střední, dva horní; plést: levý střídavě vrchem a spodem mezi ostatní směrem doprava, pak znovu totéž; 
-	- ?potřít bílkem s mlékem?; péct 20 minut na 200 °C, pak dalších cca 15 minut na 180-190 °C 
+	1. kvásek: 1,5 balíčku kvasnic, lžíci polohrubé mouky, lžíci cukru, do půl hrnku dolij vlažného mléka, nech vykynout cca 20 minut; 
+	2. připrav 13 dg cukru, 13 dg roztopeného tuku, utřít; přidat dva žloutky, jedno vejce, lžičku soli, utři;
+	3. do utřené směsi přidej trochu mouky, kvásek, promíchej;
+	4. dosyp zbytek mouky, přiměřené množství vlažného mléka (celkem použít cca 500 ml), vypracuj těsto (musí být vláčné), nech 30-45 minut v teple kynout; 
+	5. vpracuj citronovou kůru, hrozinky, kandované ovoce;
+	6. upleť pásky - čtyři spodní vrstva, tři střední, dva horní; plést: levý střídavě vrchem a spodem mezi ostatní směrem doprava, pak znovu totéž; 
+	7. pečení: ?potři bílkem s mlékem?; 20 minut na 200 °C, pak dalších cca 15 minut na 180-190 °C; 
 - Linecké - těsto (4 plechy): 410&nbsp;g hl. mouky (spec), 250&nbsp;g tuku (hera/máslo), 160&nbsp;g cukru, 1 vejce: zpracovat těsto, nechat přes noc v&nbsp;chladničce uležet; 
 - Linecké - alternativní těsto (2 plechy): 210&nbsp;g hl. mouky, 140&nbsp;g másla nastrouhat, 70&nbsp;g mletého cukru (moučka), několik kapek octa, 2 žloutky s trochou citronové šťávy - vše v pokojové teplotě ale max. 20&nbsp;°C, špetka soli (zvýrazní sladkou chuť); rychle zpracovat těsto (aby tuk nevsákl do mouky - pak by bylo cukroví tvrdé), nechat přes noc v&nbsp;chladničce uležet; 
 - Linecké - dokončení: vyválet na cca 4&nbsp;mm; při zpracování by mělo být těsto vychlazené — zpracovávat po částech, zbytek v&nbsp;chladničce; váleček lze dát předtím na chvíli do mrazáku; podsypávat moučkovým cukrem, ne moukou; péci na plechu bez maštění při 180&nbsp;°C cca 10 min., po upečení hned sundat z plechu a dát na rovný povrch.
@@ -212,9 +215,9 @@ Jiska: 1:1:1 maslo, hera, hl. mouka
 - Citronová poleva na perníčky: mletý cukr, trocha citronové šťávy a troška horké vody, smíchat ve vhodném poměru, utřít
 - Čokoládová poleva na perníčky: 5 dg másla, 1 dg (1 lžíce) kakaa smísit, utřít. 10 dg cukru svařit ve 130 ml vody, míchat až řetízkuje, pak přidat do másla. Míchat nad parní lázní.
 - Magma
-	- 1 bílek, 25 dg mleteho cukru, 6 kavovych lzicek kakaa (i 6 lžic, ne moc vrchovatých, ale musí být méně cukru???)
-	- zpracujeme na vále, rozvalíme na cca 5 mm, vykrajujeme tvary
-	- pečeme na vymaštěném plechu či pečícím papíře – začni na 150 °C cca 15 minut (musí naskočit a zkaramelizovat), pak dosušit 100 – 120 °C cca hodinu (+větrák), pece-li trouba nesymetricky, otočit
+	- 1 bílek, 25 dg mletého cukru, 6 kávových lžiček kakaa (i 6 lžic, ne moc vrchovatých, ale musí být méně cukru???)
+	- zpracuj na vále, rozvalej na 5 mm, vykrajuj tvary
+	- peč na vymaštěném plechu, silikonové podložce či pečícím papíře – (??? začni na ? 150/140 ? °C cca 15 minut – musí naskočit a zkaramelizovat, poté ???) dosuš 100-120 °C cca 45-60 minut (+větrák), otoč plech, pokud trouba peče nesymetricky
 - Suchárky s ořechy (z letáku): vyšlehat hustý sníh ze 4 bílků a 100 g krystalu; přidej 100 g hladké mouky, 100 g vlašských ořechů, jemně promícháme; vlijeme do máslem vymaštěné formy na srnčí hřbet a pečeme při 180 °C 30 min. Druhý den nařežeme plátky a usušíme v sušičce na ovoce nebo v troubě na 50 °C.
 - Marokánky: ve 250 ml mléka rozmíchej 40 g cukru moučka, přidej 20 g másla a 30 g mouky, přiveď k varu; vař 3 minuty, než začne houstnout; odstav a vmíchej 100 g kandované citronové kůry, 100 g sekaných vlašských ořechů, 100 g rozinek, 100 g sekaných mandlí; ze směsi vyrob placičky, dej na pečicí papír a peč v rozehřáté troubě na 180 °C asi 15 minut (až okraje zhnědnou); ve vodní lázni rozpusť čokoládu, vychladlé placičky potři čokoládou.
 - Medvědí tlapky: 9 dg cukru, 20 dg mouky 8 dg hery, 8 dg másla, 8 dg ořechů, skořice, hřebíček, citronová kůra, 2 dg kakaa (1 lžíce), 1 vejce. Zpracujeme a vyválíme na 3 pásy. Těstem plníme formičky, které klademe na plech a dáme do středně vyhřáté trouby. Opečené vyklopíme a obalíme v cukru.
